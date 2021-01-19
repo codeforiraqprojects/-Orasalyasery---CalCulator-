@@ -1,0 +1,25 @@
+.root {
+    -fx-font-size: 14px;
+    -fx-font-family: sans-serif;
+    -fx-background-color: #ffffff;
+}
+
+.button 
+{
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: lightgreen;
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 4;
+    -fx-border-radius: 4;
+    -fx-border-color: blue; 
+}
+
+.text-field {
+    -fx-background-color: #a9a9a9 , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+
+
